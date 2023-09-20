@@ -20,7 +20,7 @@ public class SeleniumMavenChromeVideoRecording {
         ATUTestRecorder video;
 
         // Para añadir lo anterior es necesario descargar ATUTestRecorder desde el siguiente enlace https://github.com/miteshsavani/Selenium
-        // Una vez descargado se importa el JAR en Project Structure > Modules > IntellIJSeleniumJava > + > JARS or Directories > Apply > Ok
+        // Una vez descargado se importa el JAR en Project Structure > Modules > IntellIJSeleniumJava > Dependencies > + > JARS or Directories > Apply > Ok
 
         WebDriver driver;
 
